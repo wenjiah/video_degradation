@@ -1,0 +1,11 @@
+numpy
+opencv-python
+facenet-pytorch
+Pillow
+scikit-image
+pandas
+argparse
+scipy
+tqdm
+matplotlib
+sklearn
