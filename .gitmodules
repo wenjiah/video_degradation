@@ -1,0 +1,6 @@
+[submodule "Detectors/Mask_RCNN"]
+	path = Detectors/Mask_RCNN
+	url = https://github.com/matterport/Mask_RCNN
+[submodule "Detectors/darknet"]
+	path = Detectors/darknet
+	url = https://github.com/AlexeyAB/darknet
